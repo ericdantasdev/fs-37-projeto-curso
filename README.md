@@ -8,3 +8,4 @@ git config --global user.email "seu@email.com"
 cd nome_da_pasta
 git add . (prepara os arquivos)
 git commit -m "mensagem/descrição"
+git push ("sobe" as alterações)
